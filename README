@@ -1,0 +1,4 @@
+Quiz 1 completed
+
+Block moves around with W,A,S, and D keys
+Also, I had to add my .gitignore file to the project folder as well. If I did not, I would still get Intermediate folders being added.
